@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+
+.avatar{
+    width: 160px;
+    height: auto;
+    margin: 250px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    border: 5px #f3eff0 double;
+    border-radius: 100px;
+}
+
+body{
+
+    /* background-color:#330713; */
+    background-image: url('3d-render-of-a-modern-tech-background-with-extruding-cubes.jpg');
+    background-repeat: no-repeat;
+    background-size: 1700px;
+    background-position: 
+    color:#f3b5db;
+    text-align: center;
+    font-family: tahoma;
+    text-shadow: 2px 2px #181717;
+
+}
+
+.titulo{
+    color: rgb(249, 249, 250);
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 300px;
+    text-shadow: 2px 2px #0c0c0c;
+
+.avatar.hover
+    
+}
+
+.botao{
+    text-decoration: none;
+    color: aliceblue;
+    border: 3px solid rgb(96, 170, 240);
+    display: inline-block;
+    margin-top: 8px;
+    width: 220px;
+    line-height: 30px;
+    text-transform: uppercase;
+    border-radius: 50px;
+}
+
